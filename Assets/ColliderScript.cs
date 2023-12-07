@@ -173,7 +173,7 @@ public class ColliderScript : MonoBehaviour
 
         if (isInBillboard)
         {
-            if (vol4 < 0.6f)
+            if (vol4 < 0.8f)
             {
                 vol4 += 0.0036f;
             }
